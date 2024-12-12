@@ -1,2 +1,1 @@
-README.md
-xc
+sc
